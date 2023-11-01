@@ -108,6 +108,7 @@ form button{
     }
     .container h1{
         font-size: 25px;
+        margin-left: -80px;
     }
     .container img{
         width: 80px;
