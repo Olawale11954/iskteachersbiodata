@@ -89,6 +89,10 @@ form button{
     display: block;
     margin: 30px auto 10px;
 }
+form button:hover{
+    background: rgba(200, 0, 0);
+    color: #fff;
+    }
 #msg{
     display: block;
     color: green;
